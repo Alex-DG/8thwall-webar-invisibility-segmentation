@@ -7,7 +7,9 @@
 
 _Watch the invisibility effects in action!_
 
-Test it [live]() on your mobile phone.
+/Users/alexdiguida/Designium/aframe/8thwall-invisibility/demo/demo_video.mp4
+
+Test it live on your mobile phone.
 
 ## Development Commands
 
