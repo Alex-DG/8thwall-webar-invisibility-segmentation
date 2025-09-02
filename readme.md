@@ -1,4 +1,4 @@
-# 8th Wall AR Invisibility Effects - SETUP
+# 8th Wall AR Invisibility Effects
 
 - This project implements two different invisibility effects for AR applications using 8th Wall and A-Frame, each utilizing different computer vision techniques to achieve the "invisibility" effect.
 
