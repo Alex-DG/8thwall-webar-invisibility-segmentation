@@ -7,7 +7,7 @@
 
 _Watch the invisibility effects in action!_
 
-/Users/alexdiguida/Designium/aframe/8thwall-invisibility/demo/demo_video.mp4
+https://github.com/user-attachments/assets/2441bfdf-db47-44a8-8d41-bf90a84aa2dd
 
 Test it live on your mobile phone.
 
